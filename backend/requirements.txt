@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy # ORM de BAse de datos
+psycopg2-binary # Librería de PostgrSQL
+pydantic # Librería para validación de datos
+pydantic[email]
